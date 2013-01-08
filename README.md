@@ -6,6 +6,7 @@ for [jQuery](http://jquery.com/) at just over **7KB compressed** or 25KB uncompr
 
 ### Features
 
+- Support custom date format (Modified by Winter Lau)
 - Stylize current date, selected date, special dates and individual days of the week
 - Set data on special dates (that is returned on callback when selected)
 - Repeatable date ranges, individual dates and special dates
