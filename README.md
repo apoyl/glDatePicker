@@ -48,7 +48,9 @@ Use the following template HTML as a starting point for using glDatePicker:
     <script type="text/javascript">
         $(window).load(function()
         {
-            $('#example').glDatePicker();
+            $('#example').glDatePicker({
+                format: 'yyyy-mm-dd'
+            });
         });
     </script>
 </body>
